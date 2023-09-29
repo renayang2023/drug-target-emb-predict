@@ -9,3 +9,4 @@ findspark
 pyspark
 notebook
 numpy
+trapi-predict-kit

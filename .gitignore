@@ -2,3 +2,4 @@
 data/vectors
 MolecularTransformerEmbeddings
 src/__pycache__
+.ipynb_checkpoints/
